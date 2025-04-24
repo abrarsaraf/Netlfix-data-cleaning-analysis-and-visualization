@@ -57,3 +57,37 @@ This project aims to answer the following key questions and derive actionable KP
 ~ What languages are most commonly used in Netflix content?
 
 ~ How diverse is the content in terms of language offerings?
+
+
+## 🔍 Project Process
+The project follows a structured data analysis workflow to explore and extract insights from the Netflix dataset:
+
+1   Data Collection
+
+~ Utilized a publicly available Netflix dataset containing details on movies and TV shows, including title, director, cast, country, date added, release year, rating, duration, and category.
+
+2   Data Cleaning
+
+~ Handled missing values, removed duplicates, and standardized column formats.
+
+~ Converted date fields into appropriate datetime formats for time-based analysis.
+
+3   Exploratory Data Analysis (EDA)
+
+~ Used visualization libraries like Matplotlib and Seaborn to uncover patterns in content distribution, genre popularity, country-wise data, and ratings.
+
+~ Analyzed trends over time, top contributors, and duration distributions.
+
+4   Insights Extraction
+
+~ Derived key insights on Netflix’s content strategy, regional focus, and genre trends.
+
+~ Created visual summaries to support findings and answer predefined KPIs.
+
+5   Conclusion
+
+~ Summarized the major takeaways and their implications for understanding Netflix's content offerings and audience preferences.
+
+
+
+
