@@ -89,5 +89,23 @@ The project follows a structured data analysis workflow to explore and extract i
 ~ Summarized the major takeaways and their implications for understanding Netflix's content offerings and audience preferences.
 
 
+## 📈 Project Insights
+~ Movies dominate the platform, making up a larger share of the content compared to TV shows.
+
+~ Content additions peaked around 2019–2020, suggesting a period of rapid growth in Netflix’s library.
+
+~ United States leads as the top content-producing country, followed by India and the United Kingdom.
+
+~ Drama and Comedy are the most popular genres, consistently appearing across both movies and TV shows.
+
+~ TV-MA and TV-14 are the most common content ratings, indicating a focus on mature and teen audiences.
+
+~ English is the predominant language, but Netflix hosts a diverse set of content in multiple languages, reflecting global outreach.
+
+~ Content duration trends show most movies range between 90–120 minutes, while TV shows often list total seasons or episodes.
+
+~ A few directors and actors appear frequently, suggesting Netflix’s continued collaboration with certain creators.
+
+
 
 
